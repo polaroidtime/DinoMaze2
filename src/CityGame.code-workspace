@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Desktop/CityGame"
+		},
+		{
+			"path": "../../../../Desktop/pueblito magico"
+		},
+		{
+			"path": "../../../halloweenQuiz/halloweenQuiz"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../scenePoints/scenePoints"
+		},
+		{
+			"path": "../../../../Desktop/DinoMaze"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DinoMaze"
+	}
+}
