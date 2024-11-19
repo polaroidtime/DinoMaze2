@@ -1,5 +1,5 @@
 // ----------------------------
-// Inicialización de Variables: Hola
+// Inicialización de Variables: HOLA
 // ----------------------------
 var scene    = null,
     camera   = null,
