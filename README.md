@@ -43,7 +43,7 @@ loader.load('caveman.gltf', (gltf) => {
     scene.add(caveman);
 });
 ```
-##Controles para jugar
+## Controles para jugar
 Movimiento:
 W: Avanzar.
 S: Retroceder.
@@ -51,13 +51,13 @@ A: Mover a la izquierda.
 D: Mover a la derecha.
 Espacio: Saltar.
 
-##Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto
 Clona este repositorio.
 Coloca los archivos GLTF en la carpeta models/gltf/.
 Asegúrate de tener un servidor local (como Live Server).
 Abre el html en el navegador con un servidor local.
 
-#Disfruta
+# Disfruta
 Ahora que ya estan las instrucciones, que esperas, disfruta el proyecto.
 
-###Fin
+### Fin
