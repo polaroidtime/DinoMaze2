@@ -42,7 +42,7 @@ loader.load('caveman.gltf', (gltf) => {
     caveman.position.set(-20, -9, 1); // Posición inicial
     scene.add(caveman);
 });
-
+```
 ##Controles para jugar
 Movimiento:
 W: Avanzar.
